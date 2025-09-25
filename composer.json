@@ -1,0 +1,16 @@
+{
+    "name": "rahimi/todolist",
+    "description": "A simple but effective project.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rahimi\\Todolist\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+      "ext-pdo": "*",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
