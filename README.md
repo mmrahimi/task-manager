@@ -2,7 +2,7 @@
 
 A lightweight task management app built with PHP and jQuery.
 
-> 🟡 This was my first ever PHP project, an early milestone in my coding journey.
+> 🟡 This was my first ever PHP project, an early milestone in my coding journey. REBUILT OLD PROJECT
 
 ## 🛠️ Tech Stack
 - **Backend:** PHP (vanilla)
