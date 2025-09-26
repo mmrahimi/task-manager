@@ -22,11 +22,11 @@ A lightweight task management app built with PHP and jQuery.
    ```
    
 3. **Configure environment**
-   - Copy `.env.example` to `.env`
-   - Set your DB credentials
+- Copy `.env.example` to `.env`
+- Set your DB credentials
 
 4. **Import the database**
-   - Use `task_manager.sql` to create tables
+- Use `task_manager.sql` to create tables
 
 5. **Run the server**
    ```bash
